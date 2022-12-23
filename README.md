@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vishnu80152
-- 👀 I’m interested in project and programming devlopment
-- 🌱 I’m currently learning Domain on AI and data Science 
-- 💞️ I’m looking to collaborate on data analatics and AI devolpment
+- 👀 I’m interested in project and programming devlopment.
+- 🌱 I’m currently learning Domain on AI and data Science. 
+- 💞️ I’m looking to collaborate on data analatics and AI and ML devolpment.
+- 🗃️ Project domain worked  on Data Science,Camera vision,Data modeling,Robotics.
 - 📫 How to reach me 
 - G-mail:   vishnu80152@gmail.com
 - Instagram:  _.vishnu.m
