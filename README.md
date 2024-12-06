@@ -41,10 +41,10 @@ I'm a **Machine Learning Engineer** working to create cutting-edge AI solutions 
 - **Matplotlib**, **Seaborn**, **Plotly**, **Tableau**  
 
 **Cloud & Deployment**:  
-- **AWS**, **Google Cloud**, **Docker**, **Kubernetes**  
+- **AWS**, **DOCKER**, **E2E**. 
 
 **NLP & AI**:  
-- **Hugging Face**, **spaCy**, **NLTK**, **Transformers**, **RAG**, **LLMs**  
+- **Hugging Face**, **spaCy**, **NLTK**, **Transformers**, **RAG**, **LLMs** .
 
 ---
 
