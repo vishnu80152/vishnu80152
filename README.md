@@ -276,7 +276,7 @@
   📧 **Email:** [vishnu80152@gmail.com](mailto:vishnu80152@gmail.com)  
   🐙 **GitHub:** [@vishnu80152](https://github.com/vishnu80152)  
   💼 **LinkedIn:** [Vishnu M](https://www.linkedin.com/in/vishnu-m-015459324/)  
-  🌐 **Portfolio:** [AI Nexus](https://vishnu-ai-nexus.lovable.app/#projects)
+  🌐 **Portfolio:** [AI Nexus](https://vishnu-ai-nexus-sphere.lovable.app/)
 </div>
 
 ---
