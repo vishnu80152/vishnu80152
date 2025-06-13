@@ -25,7 +25,7 @@
 
 🤖 Expert in **RAG-based Chatbot Development** with **95% query accuracy**
 
-📊 **3 IEEE Publications** in AI and Machine Learning applications
+📊 **3 IEEE Publications** in AI and Machine Learning applications!
 
 🏆 Achieved **90-95% accuracy** in production ML models
 
