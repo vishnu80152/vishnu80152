@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&height=120&lines=⚡+VISHNU+M+⚡;🤖+GEN+AI+%26+ML+ENGINEER+🤖;🚀+BUILDING+THE+FUTURE+WITH+AI+🚀;💎+95%25+ACCURACY+%7C+90%25+EFFICIENCY+💎;🔥+VISION-LLM+%7C+RAG+%7C+AGENTS+🔥" alt="Typing SVG" /></div>
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&height=120&lines=⚡+VISHNU+M+⚡;🤖+GEN+AI+%26+ML+ENGINEER+🤖;🚀+BUILDING+THE+FUTURE+WITH+AI+🚀;💎+95%25+ACCURACY+%7C+90%25+EFFICIENCY+💎;🔥+VISION-LLM+%7C+RAG+%7C+AGENTS+🔥" alt="Typing SVG" /></div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
