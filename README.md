@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=120&lines=⚡+VISHNU+M+⚡;🤖+GEN+AI+%26+ML+ENGINEER+🤖;🚀+TRANSFORMING+IDEAS+INTO+AI+REALITY+🚀;💎+95%25+ACCURACY+%7C+90%25+EFFICIENCY+💎;🔥+VISION-LLM+%7C+RAG+%7C+AGENTIC+AI+🔥" alt="Typing SVG" /></div>
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=120&lines=⚡+VISHNU+M+⚡;🤖+GEN+AI+%26+ML+ENGINEER+🤖;🚀+TRANSFORMING+IDEAS+INTO+AI+REALITY+🚀;💎+95%25+ACCURACY+%7C+90%25+EFFICIENCY+💎;🔥pina+VISION-LLM+%7C+RAG+%7C+AGENTIC+AI+🔥" alt="Typing SVG" /></div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
@@ -28,8 +28,8 @@
 class VishnuM:
     def __init__(self):
         self.role = "Lead ML Engineer & Client Manager"
-        self.company = "Pinaca Technologies"
-        self.experience = "1.5+ Years of Excellence"
+        self.company = "CTD Techs"
+        self.experience = "3 Years of Excellence"
         self.education = "B.Tech AI & Data Science"
         self.cgpa = "8.3/10 (First Class)"
         self.location = "Coimbatore, Tamil Nadu"
