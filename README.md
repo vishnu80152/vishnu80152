@@ -27,7 +27,7 @@
 ```python
 class VishnuM:
     def __init__(self):
-        self.role = "Lead ML Engineer & Client Manager"
+        self.role = "AI Engineer"
         self.company = "CTD Techs"
         self.experience = "3 Years of Excellence"
         self.education = "B.Tech AI & Data Science"
